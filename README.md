@@ -106,119 +106,19 @@
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ProfessorTkd&theme=react-dark&hide_border=true&area=true)
 
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/ProfessorTkd/ProfessorTkd/blob/main/github-contribution-grid-snake.svg)
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/JayantGoel001/JayantGoel001/blob/main/github-contribution-grid-snake.svg)
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
 <br/>
 
-#
-
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
-
-<a target="_blank">
-  <img align="right" height="330px" width="500px" src="https://wakatime.com/share/@ProfessorTkd/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" >
-</a>
 
 <br>
 <br>
 
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 6,496 Contributions in the Year 2021
- > 
-> 📦 4.8 MB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 227 Public Repositories 
- > 
-> 🔑 2 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    96 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.82% 
-🌆 Daytime    119 commits    █████░░░░░░░░░░░░░░░░░░░░   23.33% 
-🌃 Evening    150 commits    ███████░░░░░░░░░░░░░░░░░░   29.41% 
-🌙 Night      145 commits    ███████░░░░░░░░░░░░░░░░░░   28.43%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       87 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.06% 
-Tuesday      63 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.35% 
-Wednesday    69 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.53% 
-Thursday     71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.92% 
-Friday       61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.96% 
-Saturday     116 commits    █████░░░░░░░░░░░░░░░░░░░░   22.75% 
-Sunday       43 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.43%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    52 hrs 43 mins      ████████████████████████░   98.78% 
-TypeScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34% 
-HTML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32% 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25% 
-JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
-
-🔥 Editors: 
-Browser                  52 hrs 43 mins      ████████████████████████░   98.78% 
-WebStorm                 30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.94% 
-VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28%
-
-🐱‍💻 Projects: 
-ProfessorTkd.github.io  50 hrs 40 mins      ███████████████████████░░   94.92% 
-A_REPO_WITH_X_STARS_And_Y2 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.08%
-
-💻 Operating System: 
-Windows                  53 hrs 22 mins      █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in Jupyter Notebook** 
-
-```text
-Jupyter Notebook         23 repos            █████░░░░░░░░░░░░░░░░░░░░   23.23% 
-Python                   21 repos            █████░░░░░░░░░░░░░░░░░░░░   21.21% 
-C++                      13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.13% 
-HTML                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-JavaScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.08%
-
-```
-
-
-
- Last Updated on 22/10/2021
-<!--END_SECTION:waka-->
-
-<p align="center">
-  <a>
-    <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@JayantGoel001/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
-  </a>
-  <a>
-    <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@JayantGoel001/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
-  </a>
-</p>
-
 #
-
 <h1>
   Connect With Me
   <a target="_blank">
-    <img src="https://github.com/ProfessorTkd/ProfessorTkd/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+    <img src="https://github.com/ProfessorTkd/ProfessorTkd/blob/main/GIF/Handshake.gif" height="25px" style="max-width:100%;">
   </a>
 </h1>
 
@@ -245,9 +145,6 @@ JavaScript               8 repos             ██░░░░░░░░░�
     <code><img height="60" width="60" src="https://github.com/ProfessorTkd/ProfessorTkd/blob/main/PNG/hr.png"/></code>
   </a>
 
-  <a href="https://codeforces.com/profile/professortkd31" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/ProfessorTkd/ProfessorTkd/blob/main/PNG/cf.png"/></code>
-  </a>
 
   <a href="https://www.hackerearth.com/@professortkd31" target="_blank">
     <code><img height="60" width="60" src="https://github.com/ProfessorTkd/ProfessorTkd/blob/main/SVG/he.svg"/></code>
