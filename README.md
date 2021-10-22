@@ -151,7 +151,7 @@
   </a>
 
   <a href="https://www.codechef.com/users/professortkd31" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/ProfessorTkd/ProfessorTkd/blob/master/SVG/cc.svg"/></code>
+    <code><img height="60" width="60" src="https://github.com/ProfessorTkd/ProfessorTkd/blob/main/SVG/cc.svg"/></code>
   </a>
   
   <a href="https://leetcode.com/professortkd31/" target="_blank">
